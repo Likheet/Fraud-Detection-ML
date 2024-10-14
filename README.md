@@ -179,7 +179,3 @@ This documentation details the comprehensive steps and methodologies used to bui
 - Stacking
 
 ---
-
-## 9. Final Recommendation
-
-- Summarize findings and recommend the best-performing model based on evaluation metrics.
